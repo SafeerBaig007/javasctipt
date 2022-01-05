@@ -5,7 +5,7 @@ let john = {
     }
   };
   
-//   john.sayHi();
+  john.sayHi();
 
   // optationl chaining 
 
